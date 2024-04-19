@@ -3,7 +3,9 @@ This is a Mini-project for SC1015 (Introduction to Data & AI) which focuses on H
 
 ### Contributions
 @JanhaveeSingh - Data extraction, Data cleaning, Data visualisation, Gradient boosting regression 
+
 @sentheta - Data visualisation, Random forest regression, Singapore map
+
 @thiriii - Data visualisation, Linear regression, (Bayesian) Ridge regression
 
 
