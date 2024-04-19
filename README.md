@@ -8,11 +8,9 @@ This is a Mini-project for SC1015 (Introduction to Data & AI) which focuses on H
 
 @thiriii - Data visualisation, Linear regression, (Bayesian) Ridge regression
 
+### Problem Statements
+We aim to conduct a comprehensive analysis to identify the key factors influencing resale prices of HDB flats. Our analysis will seek to answer the following questions:
 
-
-
-
-Problem Statements
 Which variables has the most impact in sale price?
 Which model would be good for this prediction?
 Which area has the most expensive and which has the most affordable HDB?
