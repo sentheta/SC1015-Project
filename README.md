@@ -14,8 +14,10 @@ We aim to conduct a comprehensive analysis to identify the key factors influenci
 2) Which model would be good for this prediction?
 3) Which area has the most expensive and which has the most affordable HDB?
 
-### Model Used
+### Models Used
 1) Linear regression 
 2) Bayesian Ridge regression
 3) Random forest regressor 
 4) Gradient boosting regressor 
+
+### Conclusion
