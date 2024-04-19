@@ -1,6 +1,6 @@
 # SC1015-Project
 
-##WELCOME
+## WELCOME
 This is a Mini-project for SC1015 (Introduction to Data & AI) which focuses on HDB resale price from Housing data set found on Kaggle.
 
 Contributor 
