@@ -1,13 +1,5 @@
 # SC1015-Project
-This is a Mini-project for SC1015 (Introduction to Data & AI) on HDB data set found on Kaggle. We aim to conduct a comprehensive analysis to identify the key factors influencing resale prices of HDB flats and our analysis will seek to answer the following questions. Firstly which variables had the most impact in sale price, secondly which model would be good for prediction and lastly which area has the most expensive or the most affordable HDB flats.
-
-
-### Contributions
-@JanhaveeSingh - Data extraction, Data cleaning, Data visualisation, Gradient boosting regression 
-
-@sentheta - Data visualisation, Data cleaning, Random forest regression, Singapore map
-
-@thiriii - Data visualisation, Linear regression, Ridge regression, Bayesian Ridge regression
+This is a Mini-project for SC1015 (Introduction to Data & AI) on HDB data set found on Kaggle. We aim to conduct a comprehensive analysis to identify the key factors influencing resale prices of HDB flats and our analysis will seek to answer the following questions in problem statements.
 
 ### Problem Statements
 We aim to conduct a comprehensive analysis to identify the key factors influencing resale prices of HDB flats. Our analysis will seek to answer the following questions:
@@ -38,3 +30,12 @@ We aim to conduct a comprehensive analysis to identify the key factors influenci
 5) folium
 
 ### Conclusion
+
+### Contributions
+@JanhaveeSingh - Data extraction, Data cleaning, Data visualisation, Gradient boosting regression 
+
+@sentheta - Data visualisation, Data cleaning, Random forest regression, Singapore map
+
+@thiriii - Data visualisation, Linear regression, Ridge regression, Bayesian Ridge regression
+
+
