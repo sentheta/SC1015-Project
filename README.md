@@ -24,5 +24,9 @@ We aim to conduct a comprehensive analysis to identify the key factors influenci
 We also created a very cool map of Sinagpore which is interactive
 
 ### Libraries used
+1) Pandas
+2) seaborn
+3) matplotlib.pyplot
+4) sklearn (framework)
 
 ### Conclusion
