@@ -6,7 +6,7 @@ This is a Mini-project for SC1015 (Introduction to Data & AI) which focuses on H
 
 @sentheta - Data visualisation, Random forest regression, Singapore map
 
-@thiriii - Data visualisation, Linear regression, (Bayesian) Ridge regression
+@thiriii - Data visualisation, Linear regression, Ridge regression, Bayesian Ridge regression
 
 ### Problem Statements
 We aim to conduct a comprehensive analysis to identify the key factors influencing resale prices of HDB flats. Our analysis will seek to answer the following questions:
