@@ -21,8 +21,13 @@ We aim to conduct a comprehensive analysis to identify the key factors influenci
 4) Gradient boosting regressor
 
 ### Visualisation
-1) 
-2) We also created an interactive map of Sinagpore 
+1) Bar plot
+2) Box plot
+3) Violin plot
+4) Scatter plot
+5) Time series plot
+6) Heat map
+7) An interactive map of Sinagpore (uploaded as html)
 
 ### Libraries used
 1) Pandas
