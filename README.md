@@ -28,5 +28,6 @@ We also created an interactive map of Sinagpore
 2) seaborn
 3) matplotlib.pyplot
 4) sklearn (framework)
+5) folium
 
 ### Conclusion
