@@ -1,5 +1,6 @@
 # SC1015-Project
-This is a Mini-project for SC1015 (Introduction to Data & AI) which focuses on HDB resale price from Housing data set found on Kaggle.
+This is a Mini-project for SC1015 (Introduction to Data & AI) on HDB data set found on Kaggle. We aim to conduct a comprehensive analysis to identify the key factors influencing resale prices of HDB flats and our analysis will seek to answer the following questions. Firstly which variables had the most impact in sale price, secondly which model would be good for prediction and lastly which area has the most expensive or the most affordable HDB flats.
+
 
 ### Contributions
 @JanhaveeSingh - Data extraction, Data cleaning, Data visualisation, Gradient boosting regression 
