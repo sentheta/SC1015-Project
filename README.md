@@ -20,6 +20,9 @@ We aim to conduct a comprehensive analysis to identify the key factors influenci
 3) Random forest regressor 
 4) Gradient boosting regressor
 
+### Visualisation
+We also created a very cool map of Sinagpore which is interactive
+
 ### Libraries used
 
 ### Conclusion
