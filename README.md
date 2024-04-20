@@ -21,7 +21,8 @@ We aim to conduct a comprehensive analysis to identify the key factors influenci
 4) Gradient boosting regressor
 
 ### Visualisation
-We also created an interactive map of Sinagpore 
+1) 
+2) We also created an interactive map of Sinagpore 
 
 ### Libraries used
 1) Pandas
