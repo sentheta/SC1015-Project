@@ -21,7 +21,7 @@ We aim to conduct a comprehensive analysis to identify the key factors influenci
 4) Scatter plot
 5) Time series plot
 6) Correlation heatmap
-7) Interactive map of Singapore (as html files)
+7) Interactive map of Singapore (in notebook + as html files)
 
 ### Models Used
 1) Linear regression
