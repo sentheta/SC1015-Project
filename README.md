@@ -4,9 +4,9 @@ This is a Mini-project for SC1015 (Introduction to Data Science & AI) utilizing 
 
 ## Problem Statements
 We aim to conduct a comprehensive analysis to identify the key factors influencing resale prices of HDB flats. Our analysis will seek to answer the following questions:
-1) Which variables has the most impact in sale price?
-2) Which model would be good for this prediction?
-3) Which area has the most expensive and which has the most affordable HDB?
+1) Which variables has the greatest influence in HDB resale price?
+2) Which model would be ideal for HDB resale price prediction?
+3) How are HDB resales distributed across Singapore?
 
 ## Libraries
 1) Pandas
