@@ -38,7 +38,7 @@ This is a Mini-project for SC1015 (Introduction to Data Science & AI) utilizing 
 
 
 ## Contributions
-[Janhavee Singh](github.com/JanhaveeSingh) - Data extraction, Data cleaning, Data visualisation, Gradient boosting regression 
+[Janhavee Singh](https://github.com/JanhaveeSingh) - Data extraction, Data cleaning, Data visualisation, Gradient boosting regression 
 
 [Vannes Wijaya](@sentheta) - Data cleaning, Data visualisation, Random forest regression, Singapore map
 
