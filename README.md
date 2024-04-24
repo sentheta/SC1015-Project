@@ -47,9 +47,9 @@ What did we learn from this project?
 
 https://www.kaggle.com/datasets/teyang/singapore-hdb-flat-resale-prices-19902020
 
-https://scikit-learn.org/stable/modules/linear_model.html#ridge-regression-and-classification
+(https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
 
-https://scikit-learn.org/stable/modules/linear_model.html#bayesian-regression
+(https://www.analyticsvidhya.com/blog/2022/04/bayesian-approach-to-regression-analysis-with-python/)
 
 https://scikit-learn.org/stable/auto_examples/ensemble/plot_gradient_boosting_regression.html
 
