@@ -32,7 +32,10 @@ We aim to conduct a comprehensive analysis to identify the key factors influenci
 5) Random forest regressor
 
 ## Conclusion
-- 
+- Floor area has the greatest influence in resale_price of HDB flats.
+- Random Forest model performed well in predicting the resale_price.
+- Ridge and Bayesian ridge model did not improve the linear regression model.
+- The interactive map shows that most resale occurs on the outskirts of Singapore.
 
 
 ## Contributions
