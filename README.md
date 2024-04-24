@@ -31,9 +31,9 @@ This is a Mini-project for SC1015 (Introduction to Data Science & AI) utilizing 
 
 ## Conclusion
 1) Floor area has the greatest influence in resale price of HDB flats.
-2) Random Forest regressor model performed well in predicting the resale price.
-3) Ridge and Bayesian ridge regression model did not improve the linear regression model.
-4) The interactive map shows that most resale occurs on the outskirts of Singapore, and resales with the highest prices occur around the central region of Singapore.
+2) Ridge and Bayesian ridge regression model did not improve the linear regression model.
+3) Random Forest regressor model performed well in predicting the resale price.
+5) The interactive map shows that most resale occurs on the outskirts of Singapore, and resales with the highest prices occur around the central region of Singapore.
 
 ## Contributions
 [Singh Janhavee](https://github.com/JanhaveeSingh) - Data extraction, Data cleaning, Data visualisation, Gradient boosting regression 
