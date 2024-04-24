@@ -40,9 +40,9 @@ This is a Mini-project for SC1015 (Introduction to Data Science & AI) utilizing 
 ## Contributions
 [Janhavee Singh](https://github.com/JanhaveeSingh) - Data extraction, Data cleaning, Data visualisation, Gradient boosting regression 
 
-[Vannes Wijaya](@sentheta) - Data cleaning, Data visualisation, Random forest regression, Singapore map
+[Vannes Wijaya](https://github.com/sentheta) - Data cleaning, Data visualisation, Random forest regression, Singapore map
 
-[Thwun Thiri Thu](@thiriii) - Data visualisation, Linear regression, Ridge regression, Bayesian ridge regression
+[Thwun Thiri Thu](https://github.com/thiriii) - Data visualisation, Linear regression, Ridge regression, Bayesian ridge regression
 
 ## References
 
