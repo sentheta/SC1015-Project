@@ -42,4 +42,9 @@ We aim to conduct a comprehensive analysis to identify the key factors influenci
 @thiriii - Data visualisation, Linear regression, Ridge regression, Bayesian ridge regression
 
 ## References
-???
+https://www.kaggle.com/datasets/teyang/singapore-hdb-flat-resale-prices-19902020?select=resale-flat-prices-based-on-registration-date-from-jan-2017-onwards.csv
+https://scikit-learn.org/stable/modules/linear_model.html#ridge-regression-and-classification
+https://scikit-learn.org/stable/modules/linear_model.html#bayesian-regression
+https://scikit-learn.org/stable/auto_examples/ensemble/plot_gradient_boosting_regression.html
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+https://scikit-learn.org/stable/modules/linear_model.html#
