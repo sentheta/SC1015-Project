@@ -3,7 +3,6 @@
 This is a Mini-project for SC1015 (Introduction to Data Science & AI) utilizing a HDB resale dataset from Kaggle. We aim to conduct a comprehensive analysis to identify the key factors influencing resale prices of HDB flats and our analysis will seek to answer the following questions in problem statements.
 
 ## Problem Statements
-We aim to conduct a comprehensive analysis to identify the key factors influencing resale prices of HDB flats. Our analysis will seek to answer the following questions:
 1) Which variables has the greatest influence in HDB resale price?
 2) Which model would be ideal for HDB resale price prediction?
 3) How are HDB resales distributed across Singapore?
