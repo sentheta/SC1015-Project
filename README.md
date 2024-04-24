@@ -1,5 +1,4 @@
 # SC1015-Project
-
 This is a Mini-project for SC1015 (Introduction to Data Science & AI) utilizing a HDB resale dataset from Kaggle. Throughout this project, we will be using Jupyter notebook under Anaconda environment. We aim to conduct a comprehensive analysis to identify the key factors influencing resale prices of HDB flats and our analysis will seek to answer the following questions in problem statements.
 
 ## Problem Statements
@@ -21,7 +20,7 @@ This is a Mini-project for SC1015 (Introduction to Data Science & AI) utilizing 
 4) Scatter plot
 5) Time series plot
 6) Correlation heatmap
-7) Interactive map of Singapore (in notebook + as html files)
+7) Interactive map of Singapore (in notebook + as html)
 
 ## Machine Learning Models
 1) Linear regression
@@ -35,7 +34,6 @@ This is a Mini-project for SC1015 (Introduction to Data Science & AI) utilizing 
 2) Random Forest regressor model performed well in predicting the resale price.
 3) Ridge and Bayesian ridge regression model did not improve the linear regression model.
 4) The interactive map shows that most resale occurs on the outskirts of Singapore, and resales with the highest prices occur around the central region of Singapore.
-
 
 ## Contributions
 [Singh Janhavee](https://github.com/JanhaveeSingh) - Data extraction, Data cleaning, Data visualisation, Gradient boosting regression 
@@ -54,8 +52,8 @@ https://www.analyticsvidhya.com/blog/2022/04/bayesian-approach-to-regression-ana
 
 https://scikit-learn.org/stable/auto_examples/ensemble/plot_gradient_boosting_regression.html
 
-https://towardsdatascience.com/random-forest-regression-5f605132d19d
+https://medium.com/@nandiniverma78988/gradient-boosting-regression-implementation-in-python-for-predictive-modeling-437e4ece8c9e
 
-https://scikit-learn.org/stable/modules/linear_model.html#
+https://towardsdatascience.com/random-forest-regression-5f605132d19d
 
 https://blog.prototypr.io/interactive-maps-with-python-part-1-aa1563dbe5a9
