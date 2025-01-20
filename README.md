@@ -1,6 +1,8 @@
 # SC1015-Project
 This is a Mini-project for SC1015 (Introduction to Data Science & AI) utilizing a HDB resale dataset from Kaggle. Throughout this project, we will be using Jupyter notebook under Anaconda environment. We aim to conduct a comprehensive analysis to identify the key factors influencing resale prices of HDB flats and our analysis will seek to answer the following questions in problem statements.
 
+![sample map image](Maps/sample.png "Resale locations in 200X")
+
 ## Problem Statements
 1) Which variables has the greatest influence in HDB resale price?
 2) Which model would be ideal for HDB resale price prediction?
